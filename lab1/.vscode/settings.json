@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "iostream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "enabled",
+    "C_Cpp.codeAnalysis.clangTidy.checks.enabled": [
+        "clang-diagnostic-error"
+    ]
+}
